@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋
 
 <!--
 **KiraMirCab/KiraMirCab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+My contribution graph is yummy 🐍😋
 ![snake gif](https://github.com/KiraMirCab/KiraMirCab/blob/0af072f3e2586b1baa83ba7b5fefbb17e75cf079/github-contribution-grid-snake.gif)

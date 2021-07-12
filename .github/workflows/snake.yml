@@ -1,12 +1,10 @@
 name: Snake animation
-
 on:
   workflow_dispatch: # execute manually
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "* */12 * * *"    
     
 jobs:
-
   snake-animation:
     runs-on: ubuntu-latest
     steps:
